@@ -10,7 +10,7 @@ Thumbs.db
 # Вспомогательные файлы
 *.log*
 node_modules/
-build/
+# build/
 
 # microsoft office
 *.docx
